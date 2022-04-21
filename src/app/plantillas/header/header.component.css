@@ -1,0 +1,12 @@
+.header_variable{
+    position: fixed;
+    background-color: green;
+    z-index: 1;
+    width: 100%;
+}
+header{
+    position: fixed;
+    background-color: red;
+    z-index: 1;
+    width: 100%;
+}
